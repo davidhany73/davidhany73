@@ -73,22 +73,6 @@ I'm a Computer Science and Artificial Intelligence graduate interested in cybers
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidhany73&theme=redical&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davidhany73/davidhany73/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 Explore my repositories for cybersecurity research, Python tools, automation scripts, and software development projects.
